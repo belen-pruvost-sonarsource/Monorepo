@@ -8,10 +8,9 @@ public class Module1App {
     Person person = new Person();
 
 
-    private void someMethod() {
       for(;;) {
         
       }
-    }
+
   }
 }
