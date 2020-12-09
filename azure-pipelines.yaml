@@ -14,6 +14,7 @@ steps:
     inputs:
       SonarQube: 'SQ_BP'
       scannerMode: 'Other'
+      extraProperties: 'sonar.projectKey=Test_BP_Monorepo'
 
   - task: Maven@3
     inputs:
