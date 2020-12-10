@@ -14,9 +14,7 @@ steps:
     inputs:
       SonarQube: 'SQ_BP'
       scannerMode: 'Other'
-      extraProperties: '| 
-      sonar.projectKey=MonoRepo.Module1.V2 
-      sonar.projectName=MonoRepo.Module1.V2'
+      extraProperties: '| sonar.projectKey=MonoRepo.Module1.V2 sonar.projectName=MonoRepo.Module1.V2'
 
   - task: Maven@3
     inputs:
