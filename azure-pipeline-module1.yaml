@@ -17,7 +17,7 @@ steps:
       extraProperties: |
         sonar.projectKey=MonoRepo.Module1.V2
         sonar.projectName=MonoRepo.Module1.V2
-        sonar.sources=Module1
+        sonar.sources=Library,Module1
 
   - task: Maven@3
     inputs:
