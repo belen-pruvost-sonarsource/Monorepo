@@ -9,10 +9,7 @@ public class Module1App {
 
 
       //TODO
-      
-      while(true) {
-
-      }
+    
 
   }
 }
