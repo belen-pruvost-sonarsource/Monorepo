@@ -8,7 +8,8 @@ public class Module1App {
     Person person = new Person();
 
 
-      //TODO
+    for(;;){
+    }
 
   }
 }
