@@ -7,12 +7,5 @@ public class Module1App {
   public static void main(String[] args) {
     Person person = new Person();
 
-
-      //TODO
-      
-      while(true) {
-
-      }
-
   }
 }
